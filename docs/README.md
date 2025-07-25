@@ -177,15 +177,6 @@ nazifah/
 
 ---
 
-## 📞 Kontak
-
-- 📧 info@merona.com  
-- 📱 WhatsApp: +62 812-3456-7890  
-- 🌐 https://merona-fashion.com  
-- 📍 Jl. Fashion Street No. 123, Jakarta  
-
----
-
 ## 📋 Changelog
 
 ### Version 2.0.0
